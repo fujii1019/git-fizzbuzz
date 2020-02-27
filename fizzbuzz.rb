@@ -1,0 +1,5 @@
+for i in 1..100
+if i.modulo(3)==0&&i.modulo(5)==0 then
+print "fizzbuzz\n"
+end
+end
