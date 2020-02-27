@@ -5,5 +5,7 @@ elsif i.modulo(3)==0 then
 print "fizz\n"
 elsif i.modulo(5)==0 then
 print "buzz\n"
+elsif i.modulo(7)==0 then
+print "git\n"
 end
 end
